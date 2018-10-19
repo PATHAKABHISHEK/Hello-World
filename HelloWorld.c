@@ -21,3 +21,7 @@ printf("Hello World!");
 char F_N;
 printf("Enter First Letter of FirstName");
 scanf("%c",&F_N);
+
+char L_N;
+printf("Enter First Letter of LastName");
+scanf("%c",&L_N);
